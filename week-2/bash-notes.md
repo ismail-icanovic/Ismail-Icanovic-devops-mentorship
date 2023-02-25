@@ -91,7 +91,7 @@
   - `exit` - log out from the ssh connection
   - `ssh bandit7@bandit.labs.overthewire.org -p 2220` -  explained in Level 0
   
-  - ![level 7](.//images/leve7.jpg) 
+  - ![level 7](.//images/level7.jpg) 
 
 ## Level 7 - 8
 
