@@ -1,0 +1,2 @@
+/etc/ssh/ssh_config is a file
+/etc/ssh/ssh_config.d is a directory
