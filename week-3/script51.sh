@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# extracting options and parameters
+# extracting options and parameters, example page 414
 echo
 while [ -n "$1" ]
 do
