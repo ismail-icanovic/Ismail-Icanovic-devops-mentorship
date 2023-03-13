@@ -1,5 +1,5 @@
 #!/bin/bash
-ž
+
 # breaking out of a while loop
  var1=1
  while [ $var1 -lt 10 ]
