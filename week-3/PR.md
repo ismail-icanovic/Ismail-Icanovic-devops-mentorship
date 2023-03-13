@@ -1,9 +1,4 @@
-This ``README.MD`` file will contain all important notes from the mentorship program.
-
-<details>
-<summary>Week-3. Bash Shell Scripting</summary>
-
-### Bash Shell Scripting 
+# Bash Shell Scripting 
 #### Used book
 ##### `Linux Command Line and Shell Scripting Bible, 3rd Edition` *Chapters [13-16]*
 
